@@ -21,7 +21,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
  
 - **Xi'an Jiaotong University**  
   Bachelor of Engineering (BE), Information Engineering (September 2021 - Expected 2025)  
-  - Recommended for graduate studies (ranked 12th/213)   
+  - Recommended for graduate studies (Rank: 12th/213)   
   - GPA: 89.24/100 （Rank: 4th/213） 
 
 ## Internship
