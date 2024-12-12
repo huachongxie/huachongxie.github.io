@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Huachong Xie's Homepage"
 title_separator          : "-"
 name                     : &name "Huachong Xie"
-description              : &description "Huachong Xie‘s personal description"
+description              : &description "About"
 url                      : https://huachongxie.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huachongxie/huachongxie.github.io"
@@ -24,14 +24,12 @@ author:
   avatar           : "XHCFormalPic.png"
   name             : "Huachong Xie"
   pronouns         : # example: "she/her"  
-  bio              : "BE student at XJTU, Contact: huachongxie[at]163.com"
+  bio              : "BE student at XJTU. Contact: huachongxie[at]163[dot]com"
   location         : "Xi'an/Shenzhen"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
-  email            : "huachongxie@163.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
