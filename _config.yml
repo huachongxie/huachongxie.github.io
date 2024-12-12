@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Huachong Xie's Homepage"
 title_separator          : "-"
-name                     : &name "Huachong Xie (解华翀)"
+name                     : &name "Huachong Xie"
 description              : &description "Huachong Xie‘s personal description"
 url                      : https://huachongxie.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "XHCFormalPic.png"
   name             : "Huachong Xie"
   pronouns         : # example: "she/her"  
-  bio              : "Destination isn't everything"
+  bio              : "BE student at XJTU, Contact: huachongxie[at]163.com"
   location         : "Xi'an/Shenzhen"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
