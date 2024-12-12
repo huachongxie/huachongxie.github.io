@@ -25,7 +25,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
   - GPA: 89.24/100 （Rank: 4th/213） 
 
 ## Intership
-- **PengCheng National Laboratory** (December 2024 - Present)
+- **PengCheng National Laboratory** (December 2024 - Present)  
   Mentor: Prof.[Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
   
 
