@@ -26,20 +26,20 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 
 ## Intership
 - **Peng Cheng National Laboratory** (December 2024 - Present）
-  Mentor: [Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
+    Mentor: [Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
   
 
 ## Competition and Projects Experience
 - **Mathematical Contest in Modeling**
-  Meritorious Winner, Febuary 2024
+    Meritorious Winner, Febuary 2024
 - **National College Student Electronics Design Contest**
-  National Third Prize, May 2024 - Augest 2024
+    National Third Prize, May 2024 - Augest 2024
 - **ADI "Tongda Cup" Software-Defined Radio Competition**  
-  National Second Prize, December 2023
+    National Second Prize, December 2023
 - **National College Mathematical Modeling Contest**
-  National Second Prize, Augest 2023
+    National Second Prize, Augest 2023
 - **National University Student Innovation & Entrepreneurship Development Program**
-  May 2024 - Prensent
+    May 2024 - Prensent
 
 ## Awards
 - **National Scholarship**，Ministry of Education of the People’s Republic of China，2024
