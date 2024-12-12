@@ -24,7 +24,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
   - Recommended for graduate studies (ranked 12th/213)   
   - GPA: 89.24/100 （Rank: 4th/213） 
 
-## Intership
+## Internship
 - **PengCheng National Laboratory** (December 2024 - Present)  
   Supervisor: Prof.[Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
   
