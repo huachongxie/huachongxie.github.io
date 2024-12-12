@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huachong Xie's Homepage"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Huachong Xie"
 description              : &description "About"
