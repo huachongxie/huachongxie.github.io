@@ -45,8 +45,3 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 - **National Scholarship**，Ministry of Education of the People’s Republic of China，2024
 -  Outstanding Contributor to Social Activities，XJTU，2024
 -  Excellent Student，XJTU，2023
- 
-
-Feel free to reach out if you are interested in my research or projects:
-- Email: huachongxie@163.com  
-- Phone: +86 153 9923 9586
