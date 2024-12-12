@@ -8,20 +8,20 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "解华翀"
+title                    : "**Huachong Xie's Homepage**"
 title_separator          : "-"
 name                     : &name "Huachong Xie"
 description              : &description "Huachong Xie‘s personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://huachongxie.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "huachongxie/huachongxie.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "XHCFormalPic.png"
   name             : "Huachong Xie"
   pronouns         : # example: "she/her"  
   bio              : "Destination isn't everything"
