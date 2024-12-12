@@ -25,7 +25,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
   - GPA: 89.24/100 （Rank: 4th/213） 
 
 ## Intership
-- **Peng Cheng National Laboratory** （December 2024 - Present）
+- **Peng Cheng National Laboratory** (December 2024 - Present）
   Mentor: [Dr.Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
   
 
@@ -39,7 +39,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 - **2023 National College Mathematical Modeling Contest (Second Prize)**
   Augest 2023
 - **（ing）National University Student Innovation & Entrepreneurship Development Program**
-   May 2024 - Prensent
+  May 2024 - Prensent
 
 ## Awards
 - **National Scholarship**，Ministry of Education of the People’s Republic of China，2024
