@@ -20,10 +20,10 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
   
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "简历（CV Chinese）"
+  - title: "CV"
     url: /assets/xiehuachong_CV_2024_11.pdf
     
   # - title: "Guide"
