@@ -15,12 +15,12 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 
 ## Education
 - **Xi'an Jiaotong University**  
-  Master of Science (MS), Information and Communication Engineering (Expected 2025 - Expected 2028)  
+  Master of Science (M.S.), Information and Communication Engineering (Expected 2025 - Expected 2028)  
   - Research focus: Large Generative AI Models in Telecom and 6G Communication Systems  
   - Supervisor: Prof.[Yichen Wang](https://gr.xjtu.edu.cn/en/web/wangyichen/home)
  
 - **Xi'an Jiaotong University**  
-  Bachelor of Engineering (BE), Information Engineering (September 2021 - Expected 2025)  
+  Bachelor of Science (B.S.), Information Engineering (September 2021 - Expected 2025)  
   - Recommended for graduate studies (Rank: 12th/213)   
   - GPA: 89.24/100 （Rank: 4th/213） 
 
