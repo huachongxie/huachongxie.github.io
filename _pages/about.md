@@ -19,24 +19,28 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
   - Recommended for graduate studies (ranked 12th/213)   
   - GPA: 89.24/100 （Rank: 4th/213） 
 
-## Competition Experience
+## Intership
+- **Peng Cheng National Laboratory** （December 2024 - Present）
+  Mentor: Dr. Tingting Yang
+  
+
+## Competition and Projects Experience
 - **2024 Mathematical Contest in Modeling (Meritorious Winner)**  
-  Designed centralized matching solutions and improved Gale-Shapley algorithms for advisor-student pairing, awarded the campus-level First Prize.
+  Febuary 2024
 - **2024 National College Student Electronics Design Contest (Third Prize)**  
-  Developed a smart shopping cart based on the Remi Pi platform, incorporating SQL databases, deep learning, and recommendation algorithms.
+  May 2024 - Augest 2024
 - **2023 6th ADI "Tongda Cup" Software-Defined Radio Competition (Second Prize)**  
-  Built a real-time audio-video surveillance system on the Pluto SDR platform, involving QAM modulation and CDMA transmission.
-- **2023 National College Mathematical Modeling Contest (Second Prize)**  
+  December 2023
+- **2023 National College Mathematical Modeling Contest (Second Prize)**
+  Augest 2023
+- **（ing）National University Student Innovation & Entrepreneurship Development Program**
+   May 2024 - Prensent
 
 ## Awards
-- Recipient of the National Scholarship  
-- Selected for Xi'an Jiaotong University's "Outstanding Undergraduate Program"  
-- Recognized as an "Excellent Student" and "Outstanding Social Activities Contributor" at the university level  
-
-## Projects and Activities
-- Currently participating in a provincial-level innovation project: "ARM-Based Smart Shopping Cart for Supermarkets"  
-- Served as the Class Organization Committee Member (2022 - Present)  
-- Member of the Weiguang Teaching Assistance Team (2021-2022)  
+- **National Scholarship**，Ministry of Education of the People’s Republic of China，2024
+-  Outstanding Contributor to Social Activities，XJTU，2024
+-  Excellent Student，XJTU，2023
+ 
 
 Feel free to reach out if you are interested in my research or projects:
 - Email: huachongxie@163.com  
