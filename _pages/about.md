@@ -17,7 +17,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 - **Xi'an Jiaotong University**  
   Master of Science (MS), Information Engineering (Expected 2025 - Expected 2028)  
   - Research focus: Large Generative AI Models in Telecom and 6G Communication Systems  
-  - Advisor: [Dr.Yichen Wang](https://gr.xjtu.edu.cn/en/web/wangyichen/home)
+  - Advisor: [Yichen Wang](https://gr.xjtu.edu.cn/en/web/wangyichen/home)
  
 - **Xi'an Jiaotong University**  
   Bachelor of Engineering (BE), Information Engineering (September 2021 - Expected 2025)  
@@ -26,19 +26,19 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 
 ## Intership
 - **Peng Cheng National Laboratory** (December 2024 - Present）
-  Mentor: [Dr.Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
+  Mentor: [Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
   
 
 ## Competition and Projects Experience
-- **2024 Mathematical Contest in Modeling (Meritorious Winner)**  
+- **Mathematical Contest in Modeling (Meritorious Winner)**  
   Febuary 2024
-- **2024 National College Student Electronics Design Contest (Third Prize)**  
+- **National College Student Electronics Design Contest (Third Prize)**  
   May 2024 - Augest 2024
-- **2023 6th ADI "Tongda Cup" Software-Defined Radio Competition (Second Prize)**  
+- **ADI "Tongda Cup" Software-Defined Radio Competition (Second Prize)**  
   December 2023
-- **2023 National College Mathematical Modeling Contest (Second Prize)**
+- **National College Mathematical Modeling Contest (Second Prize)**
   Augest 2023
-- **（ing）National University Student Innovation & Entrepreneurship Development Program**
+- **National University Student Innovation & Entrepreneurship Development Program**
   May 2024 - Prensent
 
 ## Awards
