@@ -21,7 +21,7 @@ repository               : "huachongxie/huachongxie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "XHCFormalPic.png"
+  avatar           : "XHCFormalPic-small.png"
   name             : "Huachong Xie"
   pronouns         : # example: "she/her"  
   bio              : "BE student at XJTU. Contact: huachongxie[at]163[dot]com"
