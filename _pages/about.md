@@ -36,7 +36,6 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
     National Third Prize, May 2024 - Augest 2024
 - **ADI "Tongda Cup" Software-Defined Radio Competition**  
     National Second Prize, December 2023
-  
 - **National College Mathematical Modeling Contest**  
     National Second Prize, Augest 2023
 - **National University Student Innovation & Entrepreneurship Development Program**  
