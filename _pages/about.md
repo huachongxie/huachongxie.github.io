@@ -33,11 +33,11 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 - **Mathematical Contest in Modeling**  
     Meritorious Winner, Febuary 2024
 - **National College Student Electronics Design Contest**  
-    National Third Prize, May 2024 - Augest 2024
+    Third Prize, May 2024 - Augest 2024
 - **ADI "Tongda Cup" Software-Defined Radio Competition**  
-    National Second Prize, December 2023
+    Second Prize, December 2023
 - **National College Mathematical Modeling Contest**  
-    National Second Prize, Augest 2023
+    Second Prize, Augest 2023
 - **National University Student Innovation & Entrepreneurship Development Program**  
     May 2024 - Prensent
 
