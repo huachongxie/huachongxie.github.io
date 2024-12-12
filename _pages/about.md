@@ -7,19 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage! I am currently an undergraduate student at Xi'an Jiaotong University, majoring in Information Engineering. My interests lie in mathematical modeling, signal processing, communication technologies, and software development. I am passionate about achieving excellence in both academics and practice.
+Welcome to my personal homepage! I am currently an undergraduate student at Xi'an Jiaotong University, majoring in Information Engineering. 
+
+My interests lie in Large Generative AI Models in Telecom, 6G Communication System and Wireless Communication. 
+
+I am happy to discuss potential internship opportunities or collaborations. Feel free to reach out!
 
 ## Education
 - **Xi'an Jiaotong University**  
   Bachelor of Engineering, Information Engineering (September 2021 - Present)  
-  - Recommended for graduate studies (ranked 12th/213)  
-  - Academic performance for the last year: 4th/213  
-  - GPA: 89.24  
-  - Core courses and grades:  
-    - Information Theory: 96  
-    - Data Communication and Computer Networks: 94  
-    - Digital Signal Processing: 97  
-    - Automatic Control Principles: 95  
+  - Recommended for graduate studies (ranked 12th/213)   
+  - GPA: 89.24/100 （Rank: 4th/213） 
 
 ## Competition Experience
 - **2024 Mathematical Contest in Modeling (Meritorious Winner)**  
@@ -30,7 +28,7 @@ Welcome to my personal homepage! I am currently an undergraduate student at Xi'a
   Built a real-time audio-video surveillance system on the Pluto SDR platform, involving QAM modulation and CDMA transmission.
 - **2023 National College Mathematical Modeling Contest (Second Prize)**  
 
-## Academic Achievements and Honors
+## Awards
 - Recipient of the National Scholarship  
 - Selected for Xi'an Jiaotong University's "Outstanding Undergraduate Program"  
 - Recognized as an "Excellent Student" and "Outstanding Social Activities Contributor" at the university level  
