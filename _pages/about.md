@@ -17,7 +17,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 - **Xi'an Jiaotong University**  
   Master of Science (MS), Information Engineering (Expected 2025 - Expected 2028)  
   - Research focus: Large Generative AI Models in Telecom and 6G Communication Systems  
-  - Advisor: [Yichen Wang](https://gr.xjtu.edu.cn/en/web/wangyichen/home)
+  - Advisor: Prof.[Yichen Wang](https://gr.xjtu.edu.cn/en/web/wangyichen/home)
  
 - **Xi'an Jiaotong University**  
   Bachelor of Engineering (BE), Information Engineering (September 2021 - Expected 2025)  
@@ -26,7 +26,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 
 ## Intership
 - **PengCheng National Laboratory** (December 2024 - Present） 
-    Mentor: [Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
+    Mentor: Prof.[Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
   
 
 ## Competition and Projects Experience
