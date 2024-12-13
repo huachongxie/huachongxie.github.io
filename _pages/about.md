@@ -14,16 +14,18 @@ My interests lie in Large Generative AI Models in Telecom, 6G Communication Syst
 I am happy to discuss potential internship opportunities or collaborations. Feel free to reach out!
 
 ## Education
-- **M.S. in Information and Communications Engineering, Xi'an Jiaotong University**  
+- **M.S. in Information and Communications Engineering, Xi'an Jiaotong University**
+  - September 2025 - June 2028 (Expected)
   - Research focus: Large Generative AI Models in Telecom and 6G Communication Systems  
   - Supervisor: Prof.[Yichen Wang](https://gr.xjtu.edu.cn/en/web/wangyichen/home)
-  - September 2025 - June 2028 (Expected)
+  
  
 - **B.S. in Information Engineering, Xi'an Jiaotong University**
+  - September 2021 - June 2025 (Expected)
   - National Scholarship Winnner   
   - Recommended for graduate studies (Rank: 12th/213)   
   - GPA: 89.24/100 （Rank: 4th/213）
-  - September 2021 - June 2025 (Expected)
+  
 
 ## Internship
 - **PengCheng National Laboratory**  
@@ -32,18 +34,18 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
   
 ## Competition and Projects Experience
 - **Mathematical Contest in Modeling (MCM)**  
+    - February 2024
     - Meritorious Winner
-    - February 2024  
     - Consortium for Mathematics and its Applications (COMAP)，United States     
 
-- **National College Student Electronics Design Contest**  
-    - Third Prize
+- **National College Student Electronics Design Contest**
     - May 2024 - August 2024  
+    - Third Prize
     - Ministry of Education of the PRC, Ministry of Industry and Information Technology of the PRC, Renesas Electronics    
 
 - **ADI "Tongda Cup" Software-Defined Radio Competition**  
-    - Second Prize
-    - December 2023  
+    - December 2023
+    - Second Prize  
     - Analog Devices Inc. (ADI) & Hangzhou Dianzi University    
 
 - **National University Student Innovation & Entrepreneurship Development Program**  
