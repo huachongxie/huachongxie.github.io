@@ -37,7 +37,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 - **National College Student Electronics Design Contest**  
     - Third Prize
     - May 2024 - August 2024  
-    - Ministry of Education of the PRC, Ministry of Industry and Information Technology of the PRC, & Renesas Electronics    
+    - Ministry of Education of the PRC, Ministry of Industry and Information Technology of the PRC, Renesas Electronics    
 
 - **ADI "Tongda Cup" Software-Defined Radio Competition**  
     - Second Prize
