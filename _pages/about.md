@@ -29,10 +29,10 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
   - Supervisor: Prof.[Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
   
 ## Competition and Projects Experience
-- **Mathematical Contest in Modeling**  
+- **Mathematical Contest in Modeling (MCM)**  
     - Meritorious Winner
     - February 2024  
-    - COMAP (Consortium for Mathematics and Its Applications)，United States     
+    - Consortium for Mathematics and its Applications (COMAP)，United States     
 
 - **National College Student Electronics Design Contest**  
     - Third Prize
