@@ -40,12 +40,13 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
     - Ministry of Education of the PRC, Ministry of Industry and Information Technology of the PRC, & Renesas Electronics    
 
 - **ADI "Tongda Cup" Software-Defined Radio Competition**  
-    - Second Prize, December 2023  
+    - Second Prize
+    - December 2023  
     - Analog Devices Inc. (ADI) & Hangzhou Dianzi University    
 
 - **National University Student Innovation & Entrepreneurship Development Program**  
     - May 2024 - Present
-    - Ministry of Education of the People's Republic of China
+    - Ministry of Education of the PRC
    
 
 ## Awards
