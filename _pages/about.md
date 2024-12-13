@@ -23,8 +23,7 @@ I am happy to discuss potential internship opportunities or collaborations. Feel
 - **B.S. in Information Engineering, Xi'an Jiaotong University**
   - September 2021 - June 2025 (Expected)
   - National Scholarship Winnner   
-  - Recommended for graduate studies (Rank: 12th/213)   
-  - GPA: 89.24/100 （Rank: 4th/213）
+  - Recommended for Admission to Graduate Studies without Examination 
   
 
 ## Internship
