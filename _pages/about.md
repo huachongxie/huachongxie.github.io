@@ -14,14 +14,16 @@ My interests lie in Large Generative AI Models in Telecom, 6G Communication Syst
 I am happy to discuss potential internship opportunities or collaborations. Feel free to reach out!
 
 ## Education
-- **M.S. in Information and Communications Engineering, Xi'an Jiaotong University, June 2028 (Expected)**  
+- **M.S. in Information and Communications Engineering, Xi'an Jiaotong University**  
   - Research focus: Large Generative AI Models in Telecom and 6G Communication Systems  
   - Supervisor: Prof.[Yichen Wang](https://gr.xjtu.edu.cn/en/web/wangyichen/home)
+  - September 2025 - June 2028 (Expected)
  
-- **B.S. in Information Engineering, Xi'an Jiaotong University, June 2025 (Expected)**
+- **B.S. in Information Engineering, Xi'an Jiaotong University**
   - National Scholarship Winnner   
   - Recommended for graduate studies (Rank: 12th/213)   
-  - GPA: 89.24/100 （Rank: 4th/213） 
+  - GPA: 89.24/100 （Rank: 4th/213）
+  - September 2021 - June 2025 (Expected)
 
 ## Internship
 - **PengCheng National Laboratory**  
