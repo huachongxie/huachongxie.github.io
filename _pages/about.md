@@ -14,32 +14,39 @@ My interests lie in Large Generative AI Models in Telecom, 6G Communication Syst
 I am happy to discuss potential internship opportunities or collaborations. Feel free to reach out!
 
 ## Education
-- **Xi'an Jiaotong University**  
-  Master of Science (M.S.), Information and Communication Engineering (Expected 2025 - Expected 2028)  
+- **M.S. in Information and Communications Engineering, Xi'an Jiaotong University, China, June 2028 (Expected)**  
   - Research focus: Large Generative AI Models in Telecom and 6G Communication Systems  
   - Supervisor: Prof.[Yichen Wang](https://gr.xjtu.edu.cn/en/web/wangyichen/home)
  
-- **Xi'an Jiaotong University**  
-  Bachelor of Science (B.S.), Information Engineering (September 2021 - Expected 2025)  
+- **B.S. in Information Engineering, Xi'an Jiaotong University, China, June 2025 (Expected)**
+  - National Scholarship Winnner   
   - Recommended for graduate studies (Rank: 12th/213)   
   - GPA: 89.24/100 （Rank: 4th/213） 
 
 ## Internship
-- **PengCheng National Laboratory** (December 2024 - Present)  
-  Supervisor: Prof.[Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
+- **PengCheng National Laboratory**  
+  - December 2024 - Present  
+  - Supervisor: Prof.[Tingting Yang](https://hurricane-cobalt-852.notion.site/6794551f007d4b47bb555081456e0023?pvs=4)
   
-
 ## Competition and Projects Experience
 - **Mathematical Contest in Modeling**  
-    Meritorious Winner, Febuary 2024
+    - Meritorious Winner
+    - February 2024  
+    - COMAP (Consortium for Mathematics and Its Applications)，United States     
+
 - **National College Student Electronics Design Contest**  
-    Third Prize, May 2024 - Augest 2024
+    - Third Prize
+    - May 2024 - August 2024  
+    - Ministry of Education of the PRC, Ministry of Industry and Information Technology of the PRC, & Renesas Electronics    
+
 - **ADI "Tongda Cup" Software-Defined Radio Competition**  
-    Second Prize, December 2023
-- **National College Mathematical Modeling Contest**  
-    Second Prize, Augest 2023
+    - Second Prize, December 2023  
+    - Analog Devices Inc. (ADI) & Hangzhou Dianzi University    
+
 - **National University Student Innovation & Entrepreneurship Development Program**  
-    May 2024 - Prensent
+    - May 2024 - Present
+    - Ministry of Education of the People's Republic of China
+   
 
 ## Awards
 - **National Scholarship**，Ministry of Education of the People’s Republic of China，2024
