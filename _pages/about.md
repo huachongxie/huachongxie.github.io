@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage! 
+Welcome to my homepage! 
 
-I am currently a student at Xi'an Jiaotong University, majoring in Information Engineering. 
-My interests lie in Large Generative AI Models in Telecom, 6G Communication Systems and Wireless Communication. 
+I am currently a M.S. student at Xi'an Jiaotong University, majoring in information and communications engineering. 
+My interests lie in large generative AI models in telecom, 6G communication systems and wireless communication. 
 
 I am happy to discuss potential internship opportunities or collaborations. Feel free to reach out!
 
 ## Education
 - **M.S. in Information and Communications Engineering, Xi'an Jiaotong University**
-  - September 2025 - June 2028 (Expected)
-  - Research focus: Large Generative AI Models in Telecom and 6G Communication Systems  
+  - September 2025 - Now
+  - Research focus: Large generative AI models in telecom, 6G communication systems and wireless communication. 
   - Supervisor: Prof. [Yichen Wang](https://gr.xjtu.edu.cn/en/web/wangyichen/home)
   
  
